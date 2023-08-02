@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muratify", "Muratify\Muratify.csproj", "{53502E5F-C5F4-4986-83A9-F2174F30C07E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Muratify", "..\..\Muratify\Muratify.vdproj", "{9726C290-7A0D-46AC-A2D0-DB96027D65B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53502E5F-C5F4-4986-83A9-F2174F30C07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53502E5F-C5F4-4986-83A9-F2174F30C07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53502E5F-C5F4-4986-83A9-F2174F30C07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53502E5F-C5F4-4986-83A9-F2174F30C07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9726C290-7A0D-46AC-A2D0-DB96027D65B9}.Debug|Any CPU.ActiveCfg = Debug
+		{9726C290-7A0D-46AC-A2D0-DB96027D65B9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76FA2921-9E94-4BBF-9C43-3819E7053AE0}
+	EndGlobalSection
+EndGlobal
